@@ -1,0 +1,11 @@
+.coolTitle
+{
+	font-weight: bold;
+	background-color: green;
+	width: 30%;
+
+}
+.done
+{
+	text-decoration: line-through;
+}
